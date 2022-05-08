@@ -1,8 +1,8 @@
 fx_version "adamant"
 game "gta5"
 
-author "Shiro"
-description "Update für die Bank"
+author "ofcShiro"
+description "https://github.com/ofcshiro/FlagUpdateFix"
 version "1.0.0"
 
 client_scripts {
