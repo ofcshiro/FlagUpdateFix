@@ -1,6 +1,3 @@
--- 262.8791, 219.6791, 106.2667
-
-
 if not Config.PolyZone then
     Config.PolyZone = true
 end
