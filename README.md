@@ -1,5 +1,5 @@
 # FlagUpdateFix
-Empty Vault Fix for the April Update PacificBank
+Empty Vault Fix for the April Update Pacific Bank and Paleto Bank
 
 Some Players have Issues with opening the Vault Door on the new Pacific Bank from Gabz
 It opens, but the inside doesnt load / is empty.
