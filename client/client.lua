@@ -85,7 +85,7 @@ if Config.PolyZone then
                 local interiorId = GetInteriorFromEntity(PlayerPedId())
                 local portalFlag = GetInteriorPortalFlag(interiorId, 2)
             
-                if isInside and PortalFlag == 64 then
+                if isInside and portalFlag == 64 then
         
                     SetInteriorPortalFlag(interiorId, 2, 0)
                     RefreshInterior(interiorId)
@@ -93,7 +93,7 @@ if Config.PolyZone then
                 elseif isInside and portalFlag == 0 then 
                     inPaletoBank = true
                 else
-                inPaletoBank = false
+                    inPaletoBank = false
                 end
             end)
         end
