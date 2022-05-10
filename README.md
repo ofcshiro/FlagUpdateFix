@@ -5,7 +5,8 @@ Some Players have Issues with opening the Vault Door on the new Pacific Bank fro
 It opens, but the inside doesnt load / is empty.
 
 This Script is fixing that issue by updating the Flag of the Vault Portal and setting it to 0
-For the Script to work you have to use PolyZone
+
+PolyZone is not required but highly recommended!
 
 
 PolyZone Link
