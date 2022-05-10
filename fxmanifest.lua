@@ -1,9 +1,9 @@
 fx_version "adamant"
 game "gta5"
 
-author "Shiro"
-description "Update für die Bank"
-version "1.1.0"
+author "ofcShiro"
+description "https://github.com/ofcshiro/FlagUpdateFix"
+version "1.2.0"
 
 client_scripts {
     'config.lua',
@@ -12,5 +12,5 @@ client_scripts {
     '@PolyZone/EntityZone.lua',
     '@PolyZone/CircleZone.lua',
     '@PolyZone/ComboZone.lua',
-    '/client/*.lua'
+    '/client/client.lua'
 }
