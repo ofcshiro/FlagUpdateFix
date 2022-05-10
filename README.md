@@ -15,14 +15,9 @@ https://github.com/mkafrin/PolyZone
 
 Installation is Simple:
 
-Download PolyZone if you dont have it already, drag and drop 
-PolyZone in your resources folder
+Download the Script from the releases and drag and drop it into your resources folder.
+go to your server.cfg and add 
+* ensure FlagUpdateFix
 
-Download the FlagUpdateFix, drag and drop it into your resource folder.
-
-Go to your server.cfg and add
-
-ensure PolyZone
-ensure FlagUpdateFix
-
-to it. 
+if you use PolyZone ensure the FlagUpdateFix somewhere after PolyZone.
+You have to enable PolyZone in the config if u want to use it instead of the distance check.
